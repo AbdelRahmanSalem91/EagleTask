@@ -1,0 +1,146 @@
+[
+  {
+    "Title": "Laptop x001",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+    "Price": 300,
+    "ImageUrl": "laptopx001.png",
+    "CategoryId": 1,
+    "BrandId": 1
+  },
+  {
+    "Title": "Mobile x001",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 150,
+    "ImageUrl": "Mobilex001.png",
+    "CategoryId": 3,
+    "BrandId": 5
+  },
+  {
+    "Title": "PC x001",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae.",
+    "Price": 280,
+    "ImageUrl": "PCx001.png",
+    "CategoryId": 2,
+    "BrandId": 3
+  },
+  {
+    "Title": "Monitor x001",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus",
+    "Price": 120,
+    "ImageUrl": "Monitorx001.png",
+    "CategoryId": 4,
+    "BrandId": 2
+  },
+  {
+    "Title": "Iphone x001",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+    "Price": 200,
+    "ImageUrl": "Iphonex001.png",
+    "CategoryId": 3,
+    "BrandId": 4
+  },
+  {
+    "Title": "Iphone x002",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 220,
+    "ImageUrl": "Iphonex002.png",
+    "CategoryId": 3,
+    "BrandId": 4
+  },
+  {
+    "Title": "Mobile x002",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada",
+    "Price": 180,
+    "ImageUrl": "Mobilex002.png",
+    "CategoryId": 3,
+    "BrandId": 6
+  },
+  {
+    "Title": "Mobile x003",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis",
+    "Price": 110,
+    "ImageUrl": "Mobile003.png",
+    "CategoryId": 3,
+    "BrandId": 6
+  },
+  {
+    "Title": "PC x002",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada",
+    "Price": 350,
+    "ImageUrl": "PCx002.png",
+    "CategoryId": 2,
+    "BrandId": 3
+  },
+  {
+    "Title": "PC x003",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 400,
+    "ImageUrl": "PCx003.png",
+    "CategoryId": 2,
+    "BrandId": 2
+  },
+  {
+    "Title": "Monitor x002",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus",
+    "Price": 160,
+    "ImageUrl": "Monitorx002.png",
+    "CategoryId": 4,
+    "BrandId": 4
+  },
+  {
+    "Title": "Monitor x003",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+    "Price": 210,
+    "ImageUrl": "Monitorx003.png",
+    "CategoryId": 4,
+    "BrandId": 4
+  },
+  {
+    "Title": "Laptop x002",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus",
+    "Price": 140,
+    "ImageUrl": "Laptopx002.png",
+    "CategoryId": 1,
+    "BrandId": 1
+  },
+  {
+    "Title": "Laptop x003",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae",
+    "Price": 250,
+    "ImageUrl": "Laptopx003.png",
+    "CategoryId": 1,
+    "BrandId": 1
+  },
+  {
+    "Title": "Iphone x003",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+    "Price": 189.99,
+    "ImageUrl": "Iphonex003.png",
+    "CategoryId": 3,
+    "BrandId": 4
+  },
+  {
+    "Title": "PC x004",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus",
+    "Price": 199.99,
+    "ImageUrl": "PCx004.png",
+    "CategoryId": 2,
+    "BrandId": 2
+  },
+  {
+    "Title": "Laptop x004",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 150,
+    "ImageUrl": "Laptopx004.png",
+    "CategoryId": 1,
+    "BrandId": 3
+  },
+  {
+    "Title": "Monitor x004",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae.",
+    "Price": 180,
+    "ImageUrl": "Monitorx004.png",
+    "CategoryId": 4,
+    "BrandId": 5
+  }
+]

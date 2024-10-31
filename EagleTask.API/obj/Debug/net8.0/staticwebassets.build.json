@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SAcPcJZBCrUYTRXn+IWgZqSyTDMr9hpXSy3G7aht3GY=",
+  "Source": "EagleTask.API",
+  "BasePath": "_content/EagleTask.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

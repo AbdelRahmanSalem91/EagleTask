@@ -1,0 +1,17 @@
+D:\Programming\Tasks\EagleTask\EagleTask\EagleTask.Data\bin\Debug\net8.0\EagleTask.Data.deps.json
+D:\Programming\Tasks\EagleTask\EagleTask\EagleTask.Data\bin\Debug\net8.0\EagleTask.Data.runtimeconfig.json
+D:\Programming\Tasks\EagleTask\EagleTask\EagleTask.Data\bin\Debug\net8.0\EagleTask.Data.dll
+D:\Programming\Tasks\EagleTask\EagleTask\EagleTask.Data\bin\Debug\net8.0\EagleTask.Data.pdb
+D:\Programming\Tasks\EagleTask\EagleTask\EagleTask.Data\bin\Debug\net8.0\EagleTask.Models.dll
+D:\Programming\Tasks\EagleTask\EagleTask\EagleTask.Data\bin\Debug\net8.0\EagleTask.Models.pdb
+D:\Programming\Tasks\EagleTask\EagleTask\EagleTask.Data\obj\Debug\net8.0\EagleTask.Data.csproj.AssemblyReference.cache
+D:\Programming\Tasks\EagleTask\EagleTask\EagleTask.Data\obj\Debug\net8.0\EagleTask.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Tasks\EagleTask\EagleTask\EagleTask.Data\obj\Debug\net8.0\EagleTask.Data.AssemblyInfoInputs.cache
+D:\Programming\Tasks\EagleTask\EagleTask\EagleTask.Data\obj\Debug\net8.0\EagleTask.Data.AssemblyInfo.cs
+D:\Programming\Tasks\EagleTask\EagleTask\EagleTask.Data\obj\Debug\net8.0\EagleTask.Data.csproj.CoreCompileInputs.cache
+D:\Programming\Tasks\EagleTask\EagleTask\EagleTask.Data\obj\Debug\net8.0\EagleTas.19477FFB.Up2Date
+D:\Programming\Tasks\EagleTask\EagleTask\EagleTask.Data\obj\Debug\net8.0\EagleTask.Data.dll
+D:\Programming\Tasks\EagleTask\EagleTask\EagleTask.Data\obj\Debug\net8.0\refint\EagleTask.Data.dll
+D:\Programming\Tasks\EagleTask\EagleTask\EagleTask.Data\obj\Debug\net8.0\EagleTask.Data.pdb
+D:\Programming\Tasks\EagleTask\EagleTask\EagleTask.Data\obj\Debug\net8.0\EagleTask.Data.genruntimeconfig.cache
+D:\Programming\Tasks\EagleTask\EagleTask\EagleTask.Data\obj\Debug\net8.0\ref\EagleTask.Data.dll

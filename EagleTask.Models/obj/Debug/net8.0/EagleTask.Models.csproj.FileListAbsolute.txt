@@ -1,0 +1,11 @@
+D:\Programming\Tasks\EagleTask\EagleTask\EagleTask.Models\bin\Debug\net8.0\EagleTask.Models.deps.json
+D:\Programming\Tasks\EagleTask\EagleTask\EagleTask.Models\bin\Debug\net8.0\EagleTask.Models.dll
+D:\Programming\Tasks\EagleTask\EagleTask\EagleTask.Models\bin\Debug\net8.0\EagleTask.Models.pdb
+D:\Programming\Tasks\EagleTask\EagleTask\EagleTask.Models\obj\Debug\net8.0\EagleTask.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Tasks\EagleTask\EagleTask\EagleTask.Models\obj\Debug\net8.0\EagleTask.Models.AssemblyInfoInputs.cache
+D:\Programming\Tasks\EagleTask\EagleTask\EagleTask.Models\obj\Debug\net8.0\EagleTask.Models.AssemblyInfo.cs
+D:\Programming\Tasks\EagleTask\EagleTask\EagleTask.Models\obj\Debug\net8.0\EagleTask.Models.csproj.CoreCompileInputs.cache
+D:\Programming\Tasks\EagleTask\EagleTask\EagleTask.Models\obj\Debug\net8.0\EagleTask.Models.dll
+D:\Programming\Tasks\EagleTask\EagleTask\EagleTask.Models\obj\Debug\net8.0\refint\EagleTask.Models.dll
+D:\Programming\Tasks\EagleTask\EagleTask\EagleTask.Models\obj\Debug\net8.0\EagleTask.Models.pdb
+D:\Programming\Tasks\EagleTask\EagleTask\EagleTask.Models\obj\Debug\net8.0\ref\EagleTask.Models.dll

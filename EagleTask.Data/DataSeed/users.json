@@ -1,0 +1,17 @@
+[
+  {
+    "UserName": "admin",
+    "Password": "@bdO123",
+    "RoleId": 1
+  },
+  {
+    "UserName": "supplier",
+    "Password": "@bdO123",
+    "RoleId": 2
+  },
+  {
+    "UserName": "Technical Support",
+    "Password": "@bdO123",
+    "RoleId": 3
+  }
+]
